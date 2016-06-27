@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/LuluOpenSource.iml" filepath="$PROJECT_DIR$/.idea/LuluOpenSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LuluOpenSource.iml" filepath="$PROJECT_DIR$/LuluOpenSource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp/okhttp.iml" filepath="$PROJECT_DIR$/okhttp/okhttp.iml" />
     </modules>
   </component>
 </project>
